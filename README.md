@@ -1,4 +1,4 @@
-# Test-GIts
+# Internship - Problem Solving Test (GITS)
 2. Kompleksitas kodingan di atas adalah O(n), di mana n adalah panjang dari string input. Ini karena setiap karakter dalam string input diiterasi satu per satu untuk memeriksa kecocokan braket. Operasi yang dilakukan dalam iterasi meliputi penggunaan stack yang memiliki kompleksitas O(1) untuk push dan pop.
    
 3. Detail kompleksitas kodingan:
